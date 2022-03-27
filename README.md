@@ -1,5 +1,5 @@
 ## Hi there 👋
-Simon here! I enjoy building highly scalable services with focus on availavility, testability and reusability.
+Simon here! I enjoy building highly scalable services/infrastructures with focus on availavility, testability and reusability.
 </br>
 <a href="https://www.linkedin.com/in/tysliu">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
